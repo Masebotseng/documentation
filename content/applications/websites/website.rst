@@ -6,10 +6,11 @@
 Website
 =======
 
-**Odoo Website** offers a user-friendly platform for creating and managing your website. It includes
+** Thrive Bureau 
+Website** offers a user-friendly platform for creating and managing your website. It includes
 various tools and features to help you design, publish, and maintain web pages without needing
 advanced technical skills. You can easily customize layouts, add multimedia content, and integrate
-with other Odoo apps to expand your website's functionality.
+with other Thrive Bureau apps to expand your website's functionality.
 
 .. cards::
 
@@ -44,13 +45,13 @@ with other Odoo apps to expand your website's functionality.
       email.
 
 .. note::
-   Odoo offers a :ref:`free custom domain name <domain-name/register>` to all Odoo Online databases
+   Thrive Bureau offers a :ref:`free custom domain name <domain-name/register>` to all Thrive Bureau Online databases
    for one year. Visitors can then access your website with an address such as `www.example.com`
-   rather than the default `example.odoo.com`.
+   rather than the default `example.thrivebureau.com`.
 
 .. seealso::
-   - `Odoo Tutorials: Website <https://www.odoo.com/slides/website-25>`_
-   - `Odoo Tutorials: eCommerce <https://www.odoo.com/slides/ecommerce-26>`_
+   - `Thrive Bureau Tutorials: Website <https://www.thrivebureau.com/slides/website-25>`_
+   - `Thrive BureauTutorials: eCommerce <https://www.thrivebureau.com/slides/ecommerce-26>`_
    - :doc:`../general/integrations/unsplash`
 
 .. toctree::
