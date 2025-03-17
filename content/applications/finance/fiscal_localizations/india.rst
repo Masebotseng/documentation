@@ -314,6 +314,9 @@ To file GST Returns in Odoo, you must first enable API access on the GST portal.
    .. image:: india/gst-portal-api-yes.png
       :alt: Click Yes
 
+.. note::
+   It's ideal to select 30 days duration to avoid the hassle of reauthentication of the token.
+
 #. Doing so enables a :guilabel:`Duration` drop-down menu. Select the :guilabel:`Duration` of your
    preference, and click :guilabel:`Confirm`.
 
